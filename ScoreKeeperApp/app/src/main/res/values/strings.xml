@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Score Keeper App</string>
+    <string name="team_a_name">Roger Federer</string>
+    <string name="team_b_name">Rafael Nadal</string>
+    <string name="location">Melbourne</string>
+    <string name="year">2018</string>
+
+</resources>
